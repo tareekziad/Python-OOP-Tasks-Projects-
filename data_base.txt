@@ -1,0 +1,6 @@
+1,tarek,23,male,tarek20,200
+2,ziad hassan,33,male ,ziad20,10
+3,liza,22,female    ,liza1,190
+4,sofya,21,female            ,s123,300
+5,mohamed ahmed ali ,34,male,mh11,1
+6,khaled ali,34,male                          ,k123,0
